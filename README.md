@@ -17,7 +17,8 @@ O Sakila possui diversas tabelas que representam diferentes aspectos de uma loca
 
 ## Fonte
 
-Você pode encontrar mais informações e o script para criar o banco de dados Sakila no site oficial do MySQL ou em diversos tutoriais online. Uma fonte comum é o próprio MySQL Workbench ou o site do MySQL Community Server.
+O Sakila está disponível gratuitamente no site oficial do MySQL:
+> [https://dev.mysql.com/doc/sakila/en/](https://dev.mysql.com/doc/sakila/en/)
 
 ---
 
